@@ -26,6 +26,6 @@
     "youremail@example.com": "jan.novak@seznam.cz",
     "1 post": "příspěvků: 1",
     "% posts": "příspěvků: %",
-    "1 min read": "1 min",
-    "% min read": "% min"
+    "1 min read": "Doba čtení: 1 min",
+    "% min read": "Doba čtení: % min"
 }
